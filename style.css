@@ -1,0 +1,32 @@
+h1{
+    color: red;
+}
+
+.blue {
+    color: cadetblue;
+}
+
+#title{
+    color: coral;
+}
+
+.border-blue{
+    border: 2px solid cadetblue;
+    padding: 20px;
+}
+
+div > p{
+    color: red;
+}
+
+p + a {
+    color: green;
+}
+
+li{
+    color: red;
+}
+
+li li {
+    color: blue;
+}
